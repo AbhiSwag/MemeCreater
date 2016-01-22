@@ -1,7 +1,7 @@
 # MemeCreator
 
 Summary:
-
+(App can be found in: app\src\main\java\...) 
 This is an android application that creates a meme.
 
 Features:
