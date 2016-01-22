@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fd55df3-7a2a-41f9-9da6-a99a63bb4984" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/abhisek/myapplication/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/abhisek/myapplication/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyApplication.iws" />
@@ -1738,6 +1737,13 @@
       <option name="number" value="Default" />
       <updated>1453442731168</updated>
     </task>
+    <task id="LOCAL-00001" summary="android studio commit">
+      <created>1453455185120</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1453455185120</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1777,6 +1783,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="android studio commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="android studio commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
