@@ -41,7 +41,7 @@ public class MainActivity extends ActionBarActivity implements TopActivity.TopLi
     Uri uri;
     Drawable myDrawable;
     File f;
-    final int SET_BACKGROUND = 2;
+    final int SET_BACKGROUND = 1;
     final int CROP_IMAGE = 3;
 
     Uri mImageCaptureUri;
