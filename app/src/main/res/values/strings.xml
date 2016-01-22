@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_message">Click me pls</string>
+    <string name="text_message">Words</string>
+    <string name="createMeme">Create Meme</string>
+    <string name="title_webpage_list">Items</string>
+    <string name="title_webpage_detail">Webpage Detail</string>
+</resources>
