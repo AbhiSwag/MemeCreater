@@ -1,4 +1,4 @@
-# MemeCreater
+# MemeCreator
 
 Summary:
 
